@@ -54,5 +54,11 @@ namespace CSharp_Exam
         {
             tbPassword.Focus();
         }
+
+        private void btnRegistration_Click(object sender, EventArgs e)
+        {
+            new RegistrationForm().Show();
+            this.Hide();
+        }
     }
 }

@@ -59,6 +59,7 @@ namespace CSharp_Exam
             btnRegistration.TabIndex = 7;
             btnRegistration.Text = "Registration";
             btnRegistration.UseVisualStyleBackColor = false;
+            btnRegistration.Click += new System.EventHandler(this.btnRegistration_Click);
             // 
             // label1
             // 
@@ -168,6 +169,7 @@ namespace CSharp_Exam
             this.tbUserName.Name = "tbUserName";
             this.tbUserName.Size = new System.Drawing.Size(194, 24);
             this.tbUserName.TabIndex = 6;
+            this.tbUserName.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // tbPassword
             // 
@@ -177,8 +179,10 @@ namespace CSharp_Exam
             this.tbPassword.Location = new System.Drawing.Point(66, 243);
             this.tbPassword.Multiline = true;
             this.tbPassword.Name = "tbPassword";
+            this.tbPassword.PasswordChar = '*';
             this.tbPassword.Size = new System.Drawing.Size(194, 24);
             this.tbPassword.TabIndex = 6;
+            this.tbPassword.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // LoginForm
             // 
