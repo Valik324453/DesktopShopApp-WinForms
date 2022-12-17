@@ -117,23 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Keys-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Keys-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Target" xml:space="preserve">
+    <value>H4sIAAAAAAAEAM1Xy24bNxTdF+g/DLhqAEf0Y5MaowSOZBdCI9vIONkW1MyVTISPKckxpG/rop/UX+jlDOcpyZadBwJvZPLec9/ncv7759/43VqK6AGM5VqNycnomESgUp1xtRqTwi1fvyHv3v76S3yZyXX0uZY783KoqeyY3DuXn1Nq03uQzI4kT422eulGqZaUZZqeHh//Tk9OKCAEQawoij8WynEJ5T/470SrFHJXMDHXGQgbzvEmKVGjaybB5iyFMZkk98zkf12umSTRheAMXUhALEnElNKOOXTw/JOFxBmtVkmOB0zcbXJAuSUTFoLj5634oTEcn/oYaKtYQ6WFdVo+E/DkLCSFDtVflFrSJA3TdonpdRsfdZm6MZk5wHQNDZ1PhPFCvayOSmUOduSVjqLO1VHTAdgo/g9vC+EKA2MFhTNMHEW3xULw9E/Y3OkvoMaqEKLrGjqHd70DPLo1OgfjNh9hWTuckYj29ehQsVHr6FThzJQ7OyXRNRpnCwFN5TuhJ04b+AMUGOYgu2XOgVEeA8rcbVkf2LrjTkBtDnsN54VEc7b+AGrl7scEf5Loiq8hq0+CC58Ux/FCJWcKeMrKFGxqeF41xXe2NdHW1UamkHLJBIluDf4K3PCGREnKfDZ3pfZx8FnaRvCeK2Y2h0XQRY1p29bbzY4c4hjHcgaL2cKfwNrtaHukh9D5NuSm73yFmIDrTI8lUWu+opxRNVW7fGy8aamMVlxWcx7dQ3rxnOU5VrhDguEkSgIDvk6ezxCywqCp3UEUjbeNJRwOtoLBre+RDK64sW7KHFswX6FJJrfE2tzvyWttp5veISe02a6l/e/Qqx26KoswUG6TdoVxSBzpMiRoHAiMuKVWrhwmmNlBLRMtCqn20dNj2oEsugDh6HCMHhV0kXoXh+NV494Fqk4OR6hmupeVdLcPMR1UY1hrulXsAfUPO+exkRuKNNab0RuMWBza/YDHx7D/KxHPk/qBZ773k43Fzhp5gVHyt5gIjvG2AnOm+BKsq7YjwWfA6eAZ8/M8Kai1mTjgXfHD1zv3GX1ygT9zRfU2unpgJkWO+U2y9asu1Au39lfhdTdz9j03Mzq5KJfzAW4+bxtvL46nN+7ehVsNnV8zGj2vHAwr+oW7eJsAYtr9RomxpHzVQvgvFgWpr3ALWsvM1FLXScaIuh7VIoMazMGxDBNzYRxfstThdQrWlu+8z0wUKHIpF5DN1E3h8sJdWAtyIXqP1Jg+br98cPR9jm/KHrXfIgR0k2MIcKPeF1xkjd9XO95xeyB8j4R5Rq/wnYtwq02DdK3VgUAhfVPIQXk2uAOZCwSzNyphD/AS3/DF+AFWLN3UPL4f5OlC9NMeTzlbGSZtwGj1/Xc39R/eb/8HSwlq4KoPAAA=</value>
   </data>
-  <data name="registration" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\registration.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="user" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\user.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="lock" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\lock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Keys-21" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Keys-21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="placeholder" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\placeholder.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="DefaultSchema" xml:space="preserve">
+    <value>dbo</value>
   </data>
 </root>

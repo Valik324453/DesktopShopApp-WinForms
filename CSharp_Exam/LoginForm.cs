@@ -19,18 +19,20 @@ namespace CSharp_Exam
 
         private void btnLogIn_Click(object sender, EventArgs e)
         {
-            if(tbUserName.Text == "Valik" && tbPassword.Text == "1234")
-            {
-                new Form2().Show();
-                this.Hide();
-            }
-            else
-            {
-                MessageBox.Show("Wrong username or password");
-                tbUserName.Clear();
-                tbPassword.Clear();
-                tbUserName.Focus();
-            }
+            /* if(tbUserName.Text == "Valik" && tbPassword.Text == "1234")
+             {
+                 new Form2().Show();
+                 this.Hide();
+             }
+             else
+             {
+                 MessageBox.Show("Wrong username or password");
+                 tbUserName.Clear();
+                 tbPassword.Clear();
+                 tbUserName.Focus();
+             }*/
+            new UserMainMenu().Show();
+            this.Hide();
         }
 
         private void lClearFields_Click(object sender, EventArgs e)
